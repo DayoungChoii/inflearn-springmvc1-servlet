@@ -2,9 +2,9 @@ package com.hello.servlet.web.frontcontroller.v2.controller;
 
 import com.hello.servlet.domain.Member;
 import com.hello.servlet.domain.MemberRepository;
+import com.hello.servlet.web.frontcontroller.MyView;
 import com.hello.servlet.web.frontcontroller.v1.ControllerV1;
 import com.hello.servlet.web.frontcontroller.v2.ControllerV2;
-import com.hello.servlet.web.frontcontroller.v2.MyView;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
